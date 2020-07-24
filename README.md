@@ -12,7 +12,7 @@
 📷 [instagram][instagram] **|** 
 
 
-[banner]: https://raw.githubusercontent.com/theskinnycoder/theskinnycoder/master/cover.png
+[banner]: https://raw.githubusercontent.com/theskinnycoder/theskinnycoder/master/banner.png
 [blog]: https://theskinnycoder.github.io/
 [youtube]: https://www.youtube.com/channel/UCS-FbZkVQf6WHrZE74d4wOA
 [instagram]: https://www.instagram.com/_theskinnycoder_/
